@@ -12,7 +12,7 @@ body {
   font-family: sans-serif;
   margin: auto;
   cursor: zoom-in;
-  background-color: antiquewhite;
+  background-color: rgb(215, 250, 245);
   min-height: 100;
 }
 
@@ -140,6 +140,6 @@ input, select, option, textarea, button, pre, code {
   }
 
   header {
-    background: #8affad;
+    background: #8eff8a;
   }
 

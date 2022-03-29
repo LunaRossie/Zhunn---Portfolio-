@@ -4,9 +4,9 @@ Understanding the concept of integration such as; codes in infrastructure, testi
 
 img/source
 
-￼￼https://schoolsweek.co.uk/wp-content/uploads/2018/09/Computing-feat.jpg
+https://schoolsweek.co.uk/wp-content/uploads/2018/09/Computing-feat.jpg
 
-https://online.stanford.edu/sites/default/files/st…ter-science-101_soe-ycscs101-sp.jpg?itok=fnt2Dm5f
+https://www.zealousweb.com/wp-content/uploads/2020/01/QualityAssurance-detail.jpg
 
 https://vita.vision.org.in/wp-content/uploads/2020/08/Emerging-Technology-750x458.jpg
 
