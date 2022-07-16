@@ -115,9 +115,10 @@ section {
 }
 
 .card img  {
-  width: 400px;
-  aspect-ratio: before auto 400 / 248;
-  height: after 248px,
+  width: 660px;
+  /* aspect-ratio: before auto 400 / 248;
+  height: after 248px, */
+  height: 300px;
 }
 
 h2 {
