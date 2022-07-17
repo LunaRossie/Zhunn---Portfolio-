@@ -19,6 +19,7 @@ body {
 h1 {
   font-size: 100%;
   margin: 5% 5%;
+  
 }
 
 ul {
@@ -115,7 +116,7 @@ section {
 }
 
 .card img  {
-  width: 660px;
+  width: 1775px;
   /* aspect-ratio: before auto 400 / 248;
   height: after 248px, */
   height: 300px;
@@ -141,6 +142,6 @@ input, select, option, textarea, button, pre, code {
   }
 
   header {
-    background: #8eff8a;
+    background: #8aa1ff;
   }
 

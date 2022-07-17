@@ -15,7 +15,7 @@ Understanding the concept of integration such as; codes in infrastructure, testi
 
 ## Instruction
 
-The user must create a basic repository and be able to clone the repository to vscode.
+The user must create a basic repository and be able to clone the repository to vscode. The project contains contact page to navigate to contact information such as; Visit my LinkedIn page that will lead users to view updated resume through LinkedIn profile.
 
 ## Github 
 
